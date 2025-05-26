@@ -1,4 +1,4 @@
-# Calculadora com divisao e nome
+# Para usar o projeto:
 Você vai ver uma calculadora que criei no Portugol, mas você pode usar o WebStudio
 Para usar, você precisa acessar o Portugol Studio ou o WebStudio aqui: [Portugol WebStudio][1]
 Você deve baixar o projeto para usar
