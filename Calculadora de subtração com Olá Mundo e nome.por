@@ -1,6 +1,7 @@
 programa
 {
-	cadeia nome
+	
+        cadeia nome
 	real minuendo, subtraendo, resultado
 	funcao inicio()
 	{
